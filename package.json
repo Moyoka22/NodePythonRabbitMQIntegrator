@@ -1,0 +1,19 @@
+{
+  "name": "integrating-node-with-python-1",
+  "version": "0.0.1",
+  "description": "Integrating node and python using RabbitMQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moyoka22/NodePythonRabbitMQIntegrator.git"
+  },
+  "author": "Moye Odiase",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moyoka22/NodePythonRabbitMQIntegrator/issues"
+  },
+  "homepage": "https://github.com/Moyoka22/NodePythonRabbitMQIntegrator#readme"
+}
